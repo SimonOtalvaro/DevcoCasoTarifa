@@ -1,2 +1,12 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(‡İæ8ˆÉ†õ‚2
+c
+java:S1854"GRemove this useless assignment to local variable "clientesPrecioTotal".(ª³8ßš¾ö‚2
+T
+java:S1481"8Remove this unused "clientesPrecioTotal" local variable.(ª³8âš¾ö‚2
+L	java:S106"+Replace this use of System.out by a logger.(©ÖÅßûÿÿÿÿ8çš¾ö‚2
+G	java:S106"+Replace this use of System.out by a logger.(Ë©£8çš¾ö‚2
+G	java:S106"+Replace this use of System.out by a logger.(ı÷‘‘8éš¾ö‚2
+G	java:S106"+Replace this use of System.out by a logger.(ˆï’8éš¾ö‚2
+]	java:S125"<This block of commented-out lines of code should be removed.(ŠËëüÿÿÿÿ8ëš¾ö‚2
+V
+java:S1854&"9Remove this useless assignment to local variable "total".(ô•Şº8ëš¾ö‚2
